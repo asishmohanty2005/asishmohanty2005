@@ -1,34 +1,34 @@
-<h1 align="center">Hi 👋, I'm Asish Mohanty</h1>
+<h1 align="center"><i>Hi 👋, I'm Asish Mohanty</i></h1>
 
 <p align="center">
-  CSE Student · Full-Stack Developer · AI Enthusiast
+  <i>CSE Student · Full-Stack Developer · AI Enthusiast</i>
 </p>
 
 <p align="center">
-  <a href="https://github.com/asishmohanty2005">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/asish-mohanty-010181321">LinkedIn</a>
+  <a href="https://github.com/asishmohanty2005"><i>GitHub</i></a> ·
+  <a href="https://www.linkedin.com/in/asish-mohanty-010181321"><i>LinkedIn</i></a>
 </p>
 
-## About
+## *About*
 
-I'm a Computer Science & Engineering student building practical
+*I'm a Computer Science & Engineering student building practical
 web applications and AI-powered tools, primarily with Python,
-React, and FastAPI.
+React, and FastAPI.*
 
-- **Focus:** Full-stack development, machine learning, and computer vision
-- **Learning:** AI agents, RAG, LangChain, and software architecture
-- **Goal:** Build useful software that solves real problems
+- *Focus: Full-stack development, machine learning, and computer vision*
+- *Learning: AI agents, RAG, LangChain, and software architecture*
+- *Goal: Build useful software that solves real problems*
 
-## Tech Stack
+## *Tech Stack*
 
-| Area | Technologies |
+| *Area* | *Technologies* |
 | :--- | :--- |
-| Languages | Python, JavaScript, TypeScript, Java, C, C++ |
-| Frontend | React, Next.js, HTML, CSS, Tailwind CSS |
-| Backend | FastAPI, Flask, Node.js |
-| AI & ML | TensorFlow, Scikit-learn, OpenCV, MediaPipe, LangChain |
-| Databases | PostgreSQL, MySQL, SQLite, Supabase |
-| Tools | Git, Docker, VS Code, Vite, Vercel, Linux |
+| *Languages* | *Python, JavaScript, TypeScript, Java, C, C++* |
+| *Frontend* | *React, Next.js, HTML, CSS, Tailwind CSS* |
+| *Backend* | *FastAPI, Flask, Node.js* |
+| *AI & ML* | *TensorFlow, Scikit-learn, OpenCV, MediaPipe, LangChain* |
+| *Databases* | *PostgreSQL, MySQL, SQLite, Supabase* |
+| *Tools* | *Git, Docker, VS Code, Vite, Vercel, Linux* |
 
 ---
 
